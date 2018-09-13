@@ -1,0 +1,21 @@
+body {
+	background: #6c757d;
+	color: white;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.story {
+	padding: 20px 50px;
+	font-size: large;
+}
+
+.locationhours {
+	font-size: large;
+}
+
+.address {
+	color: blue;
+}
