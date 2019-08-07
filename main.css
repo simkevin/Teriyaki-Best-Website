@@ -1,15 +1,22 @@
 body {
 	background: #6c757d;
 	color: white;
+	font-family: Impact, Charcoal, sans-serif;
 }
 
 ul {
 	list-style-type: none;
+	font-size: large;
+}
+
+h1 {
+	color: lightsteelblue;
 }
 
 .story {
 	padding: 20px 50px;
 	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 .locationhours {
@@ -18,4 +25,14 @@ ul {
 
 .address {
 	color: blue;
+}
+
+.topimage {
+	margin-bottom: 25px;
+	border-radius: 15px;
+}
+
+.bottomimage {
+	margin-top: 25px;
+	border-radius: 15px;
 }
